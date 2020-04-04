@@ -1,6 +1,6 @@
 # Google Secret Manager demo app
 
-A Demo app for accessing secrets using Google Secret Manager, based on the Medium article, [Google Cloud Run service with gRPC using Spring Boot](https://medium.com/swlh/google-cloud-run-service-with-grpc-using-spring-boot-e43daf155752)
+A Demo app for accessing secrets using Google Secret Manager, based on the Medium article, [Managing application secrets like a Pro using Google Secret Manager](https://medium.com/swlh/google-cloud-run-service-with-grpc-using-spring-boot-e43daf155752)
 
 ## How to use?
 
