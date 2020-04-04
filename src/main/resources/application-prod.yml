@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: prod
+
+app:
+  secrets:
+    googleClientId: ${gcp-secrets.google_client_id}
+    googleClientSecret: ${gcp-secrets.google_client_secret}

@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    gcp:
+      secretmanager:
+        enabled: ${GCP_SECRETS_ENABLED:false}
+        bootstrap:
+          enabled: ${GCP_SECRETS_ENABLED:false}
+        secret-name-prefix: gcp-secrets.

@@ -1,0 +1,4 @@
+app:
+  secrets:
+    googleClientId: dev_client_1
+    googleClientSecret: dev_client_secret
